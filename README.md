@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bcurran2
-- 👀 I’m interested in Data Analytics, SQL, Tableau
-- 🌱 I’m currently taking a Google Professional Certificate for Data Analytics.
-- 📫 How to reach me brian.curran22@gmail.com
-- Linked In - www.linkedin.com/in/brian-curran-87124225
+# Brian Curran
 
-<!---
-bcurran2/bcurran2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data analyst working in SQL, BigQuery, and Tableau. I turn messy operational and energy data into automated, decision-ready reporting.
+
+- 🔭 **Recent project:** [Building Energy Baseline Screening](https://github.com/bcurran2/building-energy-baseline-screening), BigQuery SQL plus a [Tableau Public dashboard](https://public.tableau.com/app/profile/brian.curran/viz/BuildingElectricalBaselineScreening/BuildingElectricityBaselineScreening)
+- 💼 4+ years as an energy data analyst, after 8+ years in estimating
+- 📫 brian.curran22@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brian-curran-87124225)
+- 🎓 Google Data Analytics Professional Certificate

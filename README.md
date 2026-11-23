@@ -2,10 +2,14 @@
 
 Data analyst working in SQL, BigQuery, dbt, and Tableau, with a focus on ETL pipelines, reporting automation, and API integrations. I turn messy operational and energy data into automated, decision-ready reporting.
 
+**🟢 Open to work:** data analyst and integration automation roles. Remote, or in the Austin area.
+
 - 🔭 **Recent projects:**
+  - [AI Data Center Scaling Planner](https://github.com/bcurran2/data-center-scaling-planner): Jupyter notebook that turns a planned AI training run into accelerators, power, energy, and cost, laid out year by year against available power
   - [GitHub Issues Sync](https://github.com/bcurran2/github-issues-sync): incremental GitHub API to BigQuery integration in Python, with dbt models, mocked-API tests, and a daily GitHub Actions run using keyless Google Cloud login
   - [EIA Electricity Price Pipeline](https://github.com/bcurran2/eia-energy-pipeline): Python, BigQuery, dbt, and GitHub Actions on a monthly schedule, with a [Tableau Public dashboard](https://public.tableau.com/app/profile/brian.curran/viz/ResidentialElectricityPricesColoradovs_Texas/EIADashboard) and a Power BI version
   - [Building Energy Baseline Screening](https://github.com/bcurran2/building-energy-baseline-screening): BigQuery SQL and dbt, with a [Tableau Public dashboard](https://public.tableau.com/app/profile/brian.curran/viz/BuildingElectricalBaselineScreening/BuildingElectricityBaselineScreening) and a Power BI version
+- 🌐 [Portfolio, journal, and resume](https://bcurran2.github.io)
 - 💼 4+ years as an energy data analyst, after 8+ years in estimating
 - 📫 brian.curran22@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brian-curran-87124225)
